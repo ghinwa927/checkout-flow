@@ -27,7 +27,5 @@ The checkout process consists of **three forms** that must be filled out correct
 - If any form is invalid, the user will be prompted to correct the errors before proceeding.
 
 ## Tech Stack
-- HTML, CSS, JavaScript (or React, depending on your implementation)
-
-3. Run the project locally
+- HTML, CSS, JavaScript
 
